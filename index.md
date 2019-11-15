@@ -1,8 +1,8 @@
 ```
 while (coffee > i) { 
-  creative = true;
-  code = true;
-  console.log(`creative, code ${work}`);
+  let creative = true;
+  let code = true;
+  console.log(`creative ${creative}, code ${code} = ${coffee}`);
   i++;  
 } 
 ```
