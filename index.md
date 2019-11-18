@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# me
+Passionate and creative UI UX Designer & Front End Software Engineer, as well as Fine-art photographer established in 1996. Lives in a designer’s world crafting wire-frames to high-fidelity mock-ups and prototypes. Also, codes in multiple languages, as well as speaks SEO/SEM, digital marketing, content strategy, and social. Works well with others on a team and loves an Agile environment with Scrum.
 
-You can use the [editor on GitHub](https://github.com/sjamesmccarthy/sjamesmccarthy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# creator + nomad coder : return(projects);  
+Twenty-five years of experience in prettifying the Internet through Design, User-Experience, and code for mobile and desktop. Explore a few ways I have made the Internet a better place to browse.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Desktop | Mobile | Caesars Entertainment
+While at Caesars Entertainment, I have been focused on creating wire-frames and high-fidelity mock-ups for their amazing brands, such as, Caesars Palace, Planet Hollywood, Harrah's, The Linq, Flamingo, Bally's, and Paris. Also I collaborated closely with Chicago-based consultancy, Bounteous, on the caesars.com redesign and interactive agency, Verb, on Caesars Entertainment property page templates.
 
-### Markdown
+-- art(c.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Design System | Caesars Entertainment
+Also while at Caesars, I aided in the creation in their first Design System Manager using InVision to standardize a style guide for internal and contract designers and developers.
 
-```markdown
-Syntax highlighted code block
+-- art (c.com design system)
 
-# Header 1
-## Header 2
-### Header 3
+### Desktop | Barrick Gold
+Created low-fidelity wire-frames for React/Redux application to automate the creation and maintenance of FMEAs (Failure Modes and Effects Analysis) and Predictive Maintenance. Also, worked with an Agile Barrick team, Microsoft consultants and data scientists to build a proof-of-concept, web-based predictive analytics dashboard for Barrick Gold Nevada Gold mine sites Cortez and Gold Strike.
 
-- Bulleted
-- List
+-- art (pred. maint)
 
-1. Numbered
-2. List
+### Desktop | VSP Global (Vision Service Plan)
+Worked on front-end UI UX design, development and maintenance of Member, Client and Broker Portals, including white-labeled sites for MetLife, Cigna, Sight for Students and Blue Shield. Responsible for wire framing, mocking-up design using Adobe Creative Suite applications, prototyping with Protoshare, creating A/B tests using Optimizely and coding of functional elements in JavaScript +jQuery and Magnolia CMS.
 
-**Bold** and _Italic_ and `Code` text
+-- art (vsp.com)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjamesmccarthy/sjamesmccarthy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
