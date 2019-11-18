@@ -26,6 +26,11 @@ Worked on front-end UI UX design, development and maintenance of Member, Client 
 
 <a target="_ext" href="https://vsp.com"><img src="vsp/vsp-screenshots.jpg" alt="vsp mocks" /></a>
 
+### Desktop | Mobile | jM Galleries (freelance)
+Have consulted with some of the most well-known technology companies, including, Barrick Gold, Intel, California State University Sacramento, VSP, Microsoft, University of Nevada, University of Nevada School of Medicine, GadgetMe Magazine, jM Galleries and Appmatrix, providing UI UX design, content-strategy, development, social and photography to meet business objectives of various stake holders. 
+
+<a target="_ext" href="https://jmgalleries.com"><img src="jmgalleriesusa/collage.jpg" alt="jmgalleries mocks" /></a>
+
 <hr />
 
 work with me / 951-708-1831 / <a href="resume-jmccarthy.pdf">download resume</a>
