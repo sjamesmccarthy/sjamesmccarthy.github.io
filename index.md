@@ -10,14 +10,16 @@ While at Caesars Entertainment, I have been focused on creating wire-frames and 
 <a target="_ext" href="/https://caesars.com"><img src="caesars-entertainment/caesars-homepage.jpg" alt="caesars entertainemnt homepage mocks" /></a>
 
 ### Design System | Caesars Entertainment
-Also while at Caesars, I aided in the creation in their first Design System Manager using InVision to standardize a style guide for internal and contract designers and developers.
+Also while at Caesars, I aided in the creation in their first Design System Manager using Sketch and InVision to standardize a style guide for internal and external contract design agencies and developers.
 
 <a target="_ext" href="/https://caesars.com"><img src="caesars-entertainment/dsm-styleguide.jpg" alt="caesars entertainemnt homepage mocks" /></a>
 
 ### Desktop | Barrick Gold
 Created low-fidelity wire-frames for React/Redux application to automate the creation and maintenance of FMEAs (Failure Modes and Effects Analysis) and Predictive Maintenance. Also, worked with an Agile Barrick team, Microsoft consultants and data scientists to build a proof-of-concept, web-based predictive analytics dashboard for Barrick Gold Nevada Gold mine sites Cortez and Gold Strike.
 
--- art (pred. maint)
+<a target="_ext" href="/https://caesars.com"><img src="barrick/mvp-screenshots.jpg" alt="barrick mvp pdm mocks" /></a>
+
+<a target="_ext" href="/https://caesars.com"><img src="barrick/react-app-v2.jpg" alt="barrick mvp pdm mocks" /></a>
 
 ### Desktop | VSP Global (Vision Service Plan)
 Worked on front-end UI UX design, development and maintenance of Member, Client and Broker Portals, including white-labeled sites for MetLife, Cigna, Sight for Students and Blue Shield. Responsible for wire framing, mocking-up design using Adobe Creative Suite applications, prototyping with Protoshare, creating A/B tests using Optimizely and coding of functional elements in JavaScript +jQuery and Magnolia CMS.
