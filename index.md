@@ -26,4 +26,8 @@ Worked on front-end UI UX design, development and maintenance of Member, Client 
 
 <a target="_ext" href="https://vsp.com"><img src="vsp/vsp-screenshots.jpg" alt="vsp mocks" /></a>
 
+<hr />
+
+work with me / 951-708-1831 / <a href="resume-jmccarthy.pdf">download resume</a>
+
 
