@@ -33,6 +33,6 @@ Have consulted with some of the most well-known technology companies, including,
 
 <hr />
 
-work with me / 951-708-1831 / <a href="resume-jmccarthy.pdf">download resume</a>
+work with me / 951-708-1831 / <a target="_resume" href="resume-jmccarthy.pdf">view resume</a>
 
 
