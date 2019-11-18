@@ -7,7 +7,7 @@ Twenty-five years of experience in prettifying the Internet through Design, User
 ### Desktop | Mobile | Caesars Entertainment
 While at Caesars Entertainment, I have been focused on creating wire-frames and high-fidelity mock-ups for their amazing brands, such as, Caesars Palace, Planet Hollywood, Harrah's, The Linq, Flamingo, Bally's, and Paris. Also I collaborated closely with Chicago-based consultancy, Bounteous, on the caesars.com redesign and interactive agency, Verb, on Caesars Entertainment property page templates.
 
--- art(c.com)
+<img src="caesars-entertainment/caesars-homepage.jpg" alt="caesars entertainemnt homepage mocks" />
 
 ### Design System | Caesars Entertainment
 Also while at Caesars, I aided in the creation in their first Design System Manager using InVision to standardize a style guide for internal and contract designers and developers.
