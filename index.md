@@ -5,16 +5,23 @@ Passionate and creative UI UX Designer & Front End Software Engineer, as well as
 Twenty-five years of experience in prettifying the Internet through Design, User-Experience, and code for mobile and desktop. Explore a few ways I have made the Internet a better place to browse.
 
 ### Desktop | Mobile | Caesars Entertainment
-Created wire-frames, high-fidelity mock-ups and prototypes for Caesars Entertainment brands: Caesars Palace, Planet Hollywood, Harrah's, The Linq, The Cromwell, Flamingo, Bally's, Paris and other world-wide locations. Collaborated with Chicago-based consultancy, Bounteous, on caesars.com redesign as well as interactive agency, Verb, on Caesars Entertainment property page templates.  
+While at Caesars Entertainment, I have been focused on creating wire-frames and high-fidelity mock-ups for their amazing brands, such as, Caesars Palace, Planet Hollywood, Harrah's, The Linq, Flamingo, Bally's, and Paris. Also I collaborated closely with Chicago-based consultancy, Bounteous, on the caesars.com redesign and interactive agency, Verb, on Caesars Entertainment property page templates.
 
 -- art(c.com)
 
 ### Design System | Caesars Entertainment
-Established a Design System Manager using InVision to standardize style guide for internal and contract designers and developers. Also, guided the UX team of 5 designers and product owners through user-experience workshops and facilitated lunch-and-learn UX sessions coaching Nielson Norman User Experience best practices. 
+Also while at Caesars, I aided in the creation in their first Design System Manager using InVision to standardize a style guide for internal and contract designers and developers.
 
 -- art (c.com design system)
 
 ### Desktop | Barrick Gold
+Created low-fidelity wire-frames for React/Redux application to automate the creation and maintenance of FMEAs (Failure Modes and Effects Analysis) and Predictive Maintenance. Also, worked with an Agile Barrick team, Microsoft consultants and data scientists to build a proof-of-concept, web-based predictive analytics dashboard for Barrick Gold Nevada Gold mine sites Cortez and Gold Strike.
+
+-- art (pred. maint)
 
 ### Desktop | VSP Global (Vision Service Plan)
+Worked on front-end UI UX design, development and maintenance of Member, Client and Broker Portals, including white-labeled sites for MetLife, Cigna, Sight for Students and Blue Shield. Responsible for wire framing, mocking-up design using Adobe Creative Suite applications, prototyping with Protoshare, creating A/B tests using Optimizely and coding of functional elements in JavaScript +jQuery and Magnolia CMS.
+
+-- art (vsp.com)
+
 
