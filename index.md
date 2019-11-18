@@ -33,6 +33,6 @@ Have consulted with some of the most well-known technology companies, including,
 
 <hr />
 
-work with me / 951-708-1831 / <a target="_resume" href="resume-jmccarthy.pdf">view resume</a>
+work with me / 951-708-1831 / <a target="_resume" href="https://github.com/sjamesmccarthy">github</a> / <a target="_resume" href="https://twitter.com/jmgalleriesusa">twitter</a> / <a target="_resume" href="https://instagram.com/jmgalleriesusa">instagram</a> / <a target="_resume" href="https://linkedin.com/in/jmccarthyusa">LinkedIn / <a target="_resume" href="resume-jmccarthy.pdf">view resume</a>
 
 
