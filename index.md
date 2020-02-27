@@ -1,5 +1,5 @@
 # me
-Passionate and creative UI UX Designer & Front End Software Engineer, as well as Fine-art photographer established in 1996. Lives in a designer’s world crafting wire-frames to high-fidelity mock-ups and prototypes. Also, codes in multiple languages, as well as speaks SEO/SEM, digital marketing, content strategy, and social. Works well with others on a team and loves an Agile environment with Scrum.
+Passionate and creative Full Stack Developer, UI Designer, and Fine Art Photographer established in 1996. Lives in a makers world crafting desktop and mobile web from wire-to living prototypes to product. Codes in multiple languages from PHP and SQL to Javascript and HTML/CSS, as well as speaks SEO/SEM, digital marketing, product strategy, and social. Works well with others on a team and loves an Agile environment with Scrum.
 
 # creator + nomad coder : return(projects);  
 Twenty-five years of experience in prettifying the Internet through Design, User-Experience, and code for mobile and desktop. Explore a few ways I have made the Internet a better place to browse.
