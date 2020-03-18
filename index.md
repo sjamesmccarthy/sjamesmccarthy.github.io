@@ -33,6 +33,6 @@ Have consulted with some of the most well-known technology companies, including,
 
 <hr />
 
-<a target="_resume" href="resume-jmccarthy.pdf">view resume</a> / <a target="_resume" href="https://github.com/sjamesmccarthy">github</a> / <a target="_resume" href="https://twitter.com/jmgalleriesusa">twitter</a> / <a target="_resume" href="https://instagram.com/jmgalleriesusa">instagram</a> / <a target="_resume" href="https://linkedin.com/in/jmccarthyusa">LinkedIn</a> / <a target="_resume" href="https://medium.com/jmgalleriesusa">Medium</a>
+<a target="_resume" href="resume-jmccarthy.pdf">view resume</a> / <a target="_resume" href="https://github.com/sjamesmccarthy">github</a> / <a target="_resume" href="https://twitter.com/jmgalleriesusa">twitter</a> / <a target="_resume" href="https://linkedin.com/in/jmccarthyusa">LinkedIn</a> / <a target="_resume" href="https://medium.com/jmgalleriesusa">Medium</a>
 
 
