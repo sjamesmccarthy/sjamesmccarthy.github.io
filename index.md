@@ -1,7 +1,7 @@
 # me
 Passionate and creative Full Stack Developer, UI Designer, and Fine Art Photographer established in 1996. Lives in a makers world crafting desktop and mobile web from wire-to living prototypes to product. Codes in multiple languages from PHP and SQL to Javascript and HTML/CSS, as well as speaks SEO/SEM, digital marketing, product strategy, and social. Works well with others on a team and loves an Agile environment with Scrum.
 
-# creator + nomad coder : return(projects);  
+# creator + nomad coder : return(projects);
 Twenty-five years of experience in prettifying the Internet through Design, User-Experience, and code for mobile and desktop. Explore a few ways I have made the Internet a better place to browse.
 
 ### Desktop | Mobile | Caesars Entertainment
@@ -27,12 +27,12 @@ Worked on front-end UI UX design, development and maintenance of Member, Client 
 <a target="_ext" href="https://vsp.com"><img src="vsp/vsp-screenshots.jpg" alt="vsp mocks" /></a>
 
 ### Desktop | Mobile | jM Galleries (freelance)
-Have consulted with some of the most well-known technology companies, including, Barrick Gold, Intel, California State University Sacramento, VSP, Microsoft, University of Nevada, University of Nevada School of Medicine, GadgetMe Magazine, jM Galleries and Appmatrix, providing UI UX design, content-strategy, development, social and photography to meet business objectives of various stake holders. 
+Have consulted with some of the most well-known technology companies, including, Barrick Gold, Intel, California State University Sacramento, VSP, Microsoft, University of Nevada, University of Nevada School of Medicine, GadgetMe Magazine, jM Galleries and Appmatrix, providing UI UX design, content-strategy, development, social and photography to meet business objectives of various stake holders.
 
 <a target="_ext" href="https://jmgalleries.com"><img src="jmgalleriesusa/collage.jpg" alt="jmgalleries mocks" /></a>
 
 <hr />
 
-<a target="_resume" href="resume-jmccarthy.pdf">view resume</a> / <a target="_resume" href="https://github.com/sjamesmccarthy">github</a> / <a target="_resume" href="https://twitter.com/jmgalleriesusa">twitter</a> / <a target="_resume" href="https://linkedin.com/in/jmccarthyusa">LinkedIn</a> / <a target="_resume" href="https://medium.com/jmgalleriesusa">Medium</a>
+<a target="_resume" href="resume-jmccarthy.pdf?01192022">view resume</a> / <a target="_resume" href="https://github.com/sjamesmccarthy">github</a> / <a target="_resume" href="https://twitter.com/jmgalleriesusa">twitter</a> / <a target="_resume" href="https://linkedin.com/in/jmccarthyusa">LinkedIn</a>
 
 
