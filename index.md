@@ -1,6 +1,6 @@
 # James McC.
 
-### creator + nomad coder : return(projects);
+### creator + coder : return(projects);
 Software engineer with full-stack/front-end web development experience using modern languages and frameworks including React/Next.js, Tailwindcss, Sass, PHP and MySQL. Explore a few ways I have made the Internet a better place to browse.
 
 ### Desktop | Mobile | Caesars Entertainment
