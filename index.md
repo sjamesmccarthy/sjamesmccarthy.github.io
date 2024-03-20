@@ -1,11 +1,8 @@
-# j.McCarthy
-Software engineer with full-stack/front-end web development experience using modern languages and frameworks including React/Next.js, Tailwindcss, Sass, PHP and MySQL.
-
 # creator + nomad coder : return(projects);
-Twenty-five years of experience in prettifying the Internet through Design, User-Experience, and code for mobile and desktop. Explore a few ways I have made the Internet a better place to browse.
+Software engineer with full-stack/front-end web development experience using modern languages and frameworks including React/Next.js, Tailwindcss, Sass, PHP and MySQL. Explore a few ways I have made the Internet a better place to browse.
 
 ### Desktop | Mobile | Caesars Entertainment
-While at Caesars Entertainment, I have been focused on creating wire-frames and high-fidelity mock-ups for their amazing brands, such as, Caesars Palace, Planet Hollywood, Harrah's, The Linq, Flamingo, Bally's, and Paris. Also I collaborated closely with Chicago-based consultancy, Bounteous, on the caesars.com redesign and interactive agency, Verb, on Caesars Entertainment property page templates.
+While at Caesars Entertainment, I focused on creating wire-frames and high-fidelity mock-ups for their amazing brands, such as, Caesars Palace, Planet Hollywood, Harrah's, The Linq, Flamingo, Bally's, and Paris. Also I collaborated closely with Chicago-based consultancy, Bounteous, on the caesars.com redesign and interactive agency, Verb, on Caesars Entertainment property page templates.
 
 <a target="_ext" href="https://caesars.com"><img src="caesars-entertainment/caesars-homepage.jpg" alt="caesars entertainemnt homepage mocks" /></a>
 
