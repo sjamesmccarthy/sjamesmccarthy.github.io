@@ -1,5 +1,5 @@
 # j.McCarthy
-Software engineer and designer with full-stack experience with a passion for UX and front-end development, crafting responsive websites from wire-frame to release using modern languages and frameworks including React, PHP and MySQL to Javascript and HTML/CSS.
+Software engineer with full-stack/front-end web development experience using modern languages and frameworks including React/Next.js, Tailwindcss, Sass, PHP and MySQL.
 
 # creator + nomad coder : return(projects);
 Twenty-five years of experience in prettifying the Internet through Design, User-Experience, and code for mobile and desktop. Explore a few ways I have made the Internet a better place to browse.
